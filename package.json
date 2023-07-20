@@ -14,13 +14,13 @@
     "react": "^18",
     "react-dom": "^18",
     "react-responsive": "9",
-    "typescript": "^4"
+    "typescript": "^5"
   },
   "devDependencies": {
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@vitejs/plugin-react-swc": "^3",
-    "prettier": "^2",
+    "prettier": "^3",
     "prettier-plugin-organize-imports": "^3",
     "vite": "^4"
   }

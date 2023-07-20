@@ -36,7 +36,7 @@ const App = () => {
     model.doAction(
       FlexLayout.Actions.updateModelAttributes({
         rootOrientationVertical: isPortrait,
-      })
+      }),
     );
   }, [isPortrait]);
 
