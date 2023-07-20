@@ -1,3 +1,3 @@
-# svgon
+# Grackle
 
-To SVG as JS is to JSON.
+Diagram with JSX.
